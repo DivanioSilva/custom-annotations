@@ -1,4 +1,4 @@
-package com.ds.springsecurity;
+package com.ds;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
